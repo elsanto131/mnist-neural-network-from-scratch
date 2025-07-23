@@ -1,0 +1,12 @@
+# Ignore les données et fichiers volumineux
+data/
+results/
+*.npy
+*.npz
+*.csv
+*.zip
+*.tar
+*.gz
+__pycache__/
+*.pyc
+.DS_Store
