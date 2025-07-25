@@ -1,12 +1,28 @@
-# Ignore les données et fichiers volumineux
-data/
-results/
-*.npy
-*.npz
-*.csv
-*.zip
-*.tar
-*.gz
+# Python
 __pycache__/
-*.pyc
+*.py[cod]
+*$py.class
+*.so
+.Python
+env/
+venv/
+.venv/
+data/
+
+# Jupyter Notebook
+.ipynb_checkpoints
+
+# Data files (si trop volumineux)
+# data/raw/*.idx3-ubyte
+# data/raw/*.idx1-ubyte
+
+# Results temporaires
+results/temp/
+*.tmp
+
+# macOS
 .DS_Store
+
+# IDE
+.vscode/
+.idea/

@@ -1,0 +1,10 @@
+# Python version requirement
+python>=3.8
+
+# Core dependencies
+numpy>=1.21.0
+matplotlib>=3.5.0
+scikit-learn>=1.0.0
+
+# Optional: Jupyter for notebooks
+jupyter>=1.0.0
