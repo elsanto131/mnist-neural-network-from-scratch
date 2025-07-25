@@ -243,8 +243,7 @@ This project was completed as part of my **AI Bootcamp** training at **BeCode**.
 ### Author | Auteur
 
 **Santo D'Acquisto**  
-elsanto131@hotmail.com  
-[LinkedIn](https://www.linkedin.com/in/s-dacquisto)  
+ [LinkedIn](https://www.linkedin.com/in/s-dacquisto)  
 [GitHub](https://github.com/elsanto131)
 
 ---
